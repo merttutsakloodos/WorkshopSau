@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "613485377253",
+    "firebase_url": "https://workshop-sau-863ea.firebaseio.com",
+    "project_id": "workshop-sau-863ea",
+    "storage_bucket": "workshop-sau-863ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613485377253:android:9007966fba11fb9a19c60c",
+        "android_client_info": {
+          "package_name": "com.loodos.workshop.sau"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613485377253-vla911ofkdsoh9tkdlu9q0poohaj3mgf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.loodos.workshop.sau",
+            "certificate_hash": "0da2fbb6237e549f3fdd2d71563c56ca96886cbe"
+          }
+        },
+        {
+          "client_id": "613485377253-aqqj9svj3juhe7odg4vcq9knc2ahsbbh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs6nSiw6ws9I2b16lvxHYU-ytuFkmA1PI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613485377253-aqqj9svj3juhe7odg4vcq9knc2ahsbbh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
