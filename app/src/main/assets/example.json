@@ -1,0 +1,24 @@
+{
+  "room": [
+    {
+      "message": "message1",
+      "user": "kullanici1",
+      "time": 1576587029
+    },
+    {
+      "message": "message2",
+      "user": "kullanici2",
+      "time": 1576587035
+    },
+    {
+      "message": "message3",
+      "user": "kullanici3",
+      "time": 1576587065
+    },
+    {
+      "message": "message4",
+      "user": "kullanici1",
+      "time": 1576587035
+    }
+  ]
+}
