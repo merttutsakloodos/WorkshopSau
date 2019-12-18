@@ -14,3 +14,4 @@ Evaluation Criteria
 ==========
  - Design pattern
  - Naming convention
+ - Usage of git
