@@ -1,8 +1,9 @@
 # WorkshopSau
 Build Information
 ==========
-- `Android Studio` must be 3.6 release and above. 
-- `Gradle version` 3.6.0-beta03
+- `Android Studio Plugin Version` must be 3.6 release and above. 
+- `Gradle version` 5.6.1
+- `Kotlin version` 1.3.50
 
 Language
 ==========
